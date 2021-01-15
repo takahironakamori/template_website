@@ -7,4 +7,4 @@
 
 # ページ構造
 
-<img src="images/structure.png" width="320">
+<img src="images/structure.png" width="480">
