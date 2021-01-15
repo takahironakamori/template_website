@@ -7,7 +7,7 @@
 
 # ページ構造
 
-.html ファイルは以下の構造を持つ。
+.html ファイルは以下の構造を持たせる。
 
 <img src="images/structure.png" width="480">
 
