@@ -7,4 +7,4 @@
 
 # ページ構造
 
-![structure](images/structure.png "ページ構造")
+<img src="images/structure.png" width="320">
