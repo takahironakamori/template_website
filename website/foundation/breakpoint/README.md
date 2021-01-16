@@ -1,5 +1,7 @@
 # Breakpoint
 
+下記の６個のBreakpointがある。
+
 | Breakpoint | 識別子 | 幅 |
 ----|----|---- 
 | Default | none | 0 〜 575px |
