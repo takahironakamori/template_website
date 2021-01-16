@@ -1,3 +1,3 @@
 # page-header
 
-`header` を入れる。
+`components` -> `header` 内のコンポーネントを入れる。
