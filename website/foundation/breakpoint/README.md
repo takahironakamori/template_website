@@ -2,12 +2,12 @@
 
 | Breakpoint | 識別子 | 幅 |
 ----|----|---- 
-| Default | none | 0 < 576px |
-| Small | s | 576px < 768px |
-| Medium | m |  768px < 992px |
-| Large | l |  992px < 1200px  |
-| Extra large (print) | xl | 1200px < 1400px |
-| Extra extra large | xxl | 1400px < |
+| Default | none | 0 〜 575px |
+| Small | s | 576px 〜 767px |
+| Medium | m |  768px 〜 991px |
+| Large | l |  992px 〜 1199px  |
+| Extra large (print) | xl | 1200px 〜 1399px |
+| Extra extra large | xxl | 1400px 〜  |
 
 
 ```css
