@@ -16,7 +16,7 @@
 
 .html ファイルは以下の構造を持たせる。
 
-<img src="images/structure.png" width="480">
+<img src="image-01.png" width="480">
 
 - header
 - loading

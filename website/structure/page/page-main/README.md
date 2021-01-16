@@ -2,7 +2,7 @@
 
 `page-main` には `article` と `section` を入れることができる。
 
-<img src="../../images/page-main.png" width="480">
+<img src="image-01.png" width="480">
 
 `page-main` 内で `section` を2段組みにしたい場合は、下記のように、`.row` で挟む。
 
