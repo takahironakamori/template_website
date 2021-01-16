@@ -6,4 +6,4 @@
 - drawer-main
 - drawer-footer
 
-の3箇所に `content` 内の要素を入れることができる。 
+の3箇所に `component` 内の要素を入れることができる。 
