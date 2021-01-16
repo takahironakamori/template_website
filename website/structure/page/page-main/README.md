@@ -4,7 +4,7 @@
 
 <img src="../../images/page-main.png" width="480">
 
-`page-main` 内で2段組みにしたい場合は、下記のように、`.row` で挟む。
+`page-main` 内で `section` を2段組みにしたい場合は、下記のように、`.row` で挟む。
 
   ```html
   <main id="page-main" class="page-main">
